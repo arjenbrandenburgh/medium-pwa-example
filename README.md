@@ -1,6 +1,10 @@
-# MyPwaApp
+# Your Angular app as Progressive Web App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+This repository is part of an article [Your Angular app as Progressive Web App](https://medium.com/@arjenbrandenburgh/your-angular-app-as-progressive-web-app-e481043acf65). You can read up on how to transform your existing app into a PWA.
+
+## Angular
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
 
